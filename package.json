@@ -1,0 +1,21 @@
+{
+  "name": "milestone",
+  "version": "1.0.0",
+  "description": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UfaqFatima/Hackathon1mileston2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/UfaqFatima/Hackathon1mileston2/issues"
+  },
+  "homepage": "https://github.com/UfaqFatima/Hackathon1mileston2#readme"
+}
